@@ -32,7 +32,7 @@
 /* Change the background color on mouse-over */
 
 .header a:hover {
-    background-color: #ddd;
+    background-color: rgb(204, 181, 181);
     color: black;
 }
 
